@@ -1,4 +1,5 @@
 class Carro {
+    
     private String marca;
     private String modelo;
     private double ano;
@@ -21,5 +22,3 @@ class Carro {
         return ano;
     }
 }
-
-
